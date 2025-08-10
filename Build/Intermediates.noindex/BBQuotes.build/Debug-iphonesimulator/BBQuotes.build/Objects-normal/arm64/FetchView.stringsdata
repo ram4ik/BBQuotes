@@ -1,0 +1,32 @@
+{
+  "source": "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/FetchView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "\"%@\"",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Random Quote",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Random Episode",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 98
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,96 @@
+{
+  "source": "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/CharacterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Portrayed by: %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ Character Info",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Born: %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Occupations:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nicknames:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "None",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status (spoiler alert!):",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "•%@",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "•%@",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "How: %@",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last words: \"%@\"",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 101
+        }
+      }
+    ]
+  },
+  "version": 1
+}

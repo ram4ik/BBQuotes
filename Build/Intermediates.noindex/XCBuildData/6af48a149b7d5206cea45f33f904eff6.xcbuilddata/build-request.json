@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "xojit"
+  },
+  "buildDescriptionID" : "6b318857b9a6d37773b5cd82816e5a11",
+  "configuredTargets" : [
+    {
+      "guid" : "669a927766aca400b092f2433dcde3462e6183d0a5ebf1fa5baf119a2509eb26"
+    }
+  ],
+  "containerPath" : "/Users/ribragimov/Downloads/BBQuotes/BBQuotes.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ribragimov/Downloads/BBQuotes/Build/Products",
+      "derivedDataPath" : "/Users/ribragimov/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ribragimov/Library/Developer/Xcode/DerivedData/BBQuotes-eouyhjohqlinebfmurymalkzphyv/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ribragimov/Library/Developer/Xcode/DerivedData/BBQuotes-eouyhjohqlinebfmurymalkzphyv/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "86C0B961-4919-4E68-BCE2-9B547CEB3DF7",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

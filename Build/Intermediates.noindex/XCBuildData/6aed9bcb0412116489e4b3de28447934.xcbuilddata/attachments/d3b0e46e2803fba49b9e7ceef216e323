@@ -1,0 +1,138 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotes-master.dia",
+    "emit-module-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotes-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotes-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotes-master.swiftdeps"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/BBQuotesApp.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/BBQuotesApp~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/Char.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Char~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/CharacterView.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/CharacterView~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/Constants.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Constants~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/ContentView.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/Death.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Death~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/Episode.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Episode~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/FetchService.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchService~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/FetchView.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/FetchView~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/Quote.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/Quote~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/StringExt.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/StringExt~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/BBQuotes/ViewModel.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/ViewModel~partial.swiftmodule"
+  },
+  "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ribragimov/Downloads/BBQuotes/Build/Intermediates.noindex/BBQuotes.build/Debug-iphonesimulator/BBQuotes.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
